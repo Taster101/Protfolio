@@ -1,4 +1,6 @@
-
+*{
+    /* background-color: grey; */
+}
 nav ul li{
     /* flex-direction: row; */
 }
@@ -155,4 +157,8 @@ h2{
 }
 .About-Me h2{
     font-size: 40px;
+}
+.About-Me p{
+    display: flex;
+    align-items: end;
 }
